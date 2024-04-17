@@ -12,6 +12,7 @@ VerbalExpressions is a JavaScript library that helps construct difficult regular
 ## How to get started
 
 ### In the browser
+sagar
 
 ```html
 <script src="VerbalExpressions.js"></script>
